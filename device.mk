@@ -82,7 +82,7 @@ PRODUCT_PACKAGES += \
 
 # Torch
 PRODUCT_PACKAGES += \
-    Torch
+    OmniTorch
 
 # Permissions
 PRODUCT_COPY_FILES += \
